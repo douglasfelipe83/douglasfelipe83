@@ -2,7 +2,7 @@
 ### Olá!
 <br>
 <br>
-Eu sou o Douglas Silva, sou programador front end, linguagens em aprendizado:
+Eu sou o Douglas Silva, sou Desenvolvedor Full-Stack junior, linguagens em aprendizado:
 <br>
 <br>
 <p>
