@@ -3,7 +3,7 @@
 <br>
 <br>
 Eu sou o Douglas Silva, sou Desenvolvedor Full-Stack, 
-linguagens em aprendizado:
+estou criando projetos usando as seguintes linguagens:
 <br>
 <br>
 <p>
