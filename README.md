@@ -1,9 +1,9 @@
 
-### Olá!
+<h1 >### Olá! Seja bem vindo!</h1>
 <br>
 <br>
-Eu sou o Douglas Silva, sou Desenvolvedor Full-Stack, 
-estou criando projetos usando as seguintes linguagens:
+<h2>Eu sou o Douglas Silva, sou Desenvolvedor Full-Stack, 
+estou aprendendo e criando projetos usando as seguintes linguagens:</h2>
 <br>
 <br>
 <p>
